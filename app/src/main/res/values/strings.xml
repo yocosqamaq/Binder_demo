@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BinderTry</string>
+    <string name="textview">Please click the button.</string>
+    <string name="remote_service_disconnected">Disconnected</string>
+</resources>
